@@ -1,0 +1,17 @@
+C:\Users\forma300\source\repos\DBSlideApi\ApiTools\bin\Debug\ApiTools.dll
+C:\Users\forma300\source\repos\DBSlideApi\ApiTools\bin\Debug\ApiTools.pdb
+C:\Users\forma300\source\repos\DBSlideApi\ApiTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\forma300\source\repos\DBSlideApi\ApiTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\forma300\source\repos\DBSlideApi\ApiTools\obj\Debug\ApiTools.csprojAssemblyReference.cache
+C:\Users\forma300\source\repos\DBSlideApi\ApiTools\obj\Debug\ApiTools.csproj.CoreCompileInputs.cache
+C:\Users\forma300\source\repos\DBSlideApi\ApiTools\obj\Debug\ApiTools.csproj.CopyComplete
+C:\Users\forma300\source\repos\DBSlideApi\ApiTools\obj\Debug\ApiTools.dll
+C:\Users\forma300\source\repos\DBSlideApi\ApiTools\obj\Debug\ApiTools.pdb
+C:\Users\Steve\source\Exemple\GestionContactASP\ApiTools\bin\Debug\ApiTools.dll
+C:\Users\Steve\source\Exemple\GestionContactASP\ApiTools\bin\Debug\ApiTools.pdb
+C:\Users\Steve\source\Exemple\GestionContactASP\ApiTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steve\source\Exemple\GestionContactASP\ApiTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Steve\source\Exemple\GestionContactASP\ApiTools\obj\Debug\ApiTools.csprojAssemblyReference.cache
+C:\Users\Steve\source\Exemple\GestionContactASP\ApiTools\obj\Debug\ApiTools.csproj.CopyComplete
+C:\Users\Steve\source\Exemple\GestionContactASP\ApiTools\obj\Debug\ApiTools.dll
+C:\Users\Steve\source\Exemple\GestionContactASP\ApiTools\obj\Debug\ApiTools.pdb

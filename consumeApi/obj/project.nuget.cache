@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zIqRDY7+9aPwWPQZVC7RRWgoY8MFob14/ixpejmthsp2CIsIFE2OFHXDJs1ARMZnckLNGvIPaGQxy/ho4+nqtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Steve\\source\\Demo\\DemoApiJWT\\consumeApi\\consumeApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Steve\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

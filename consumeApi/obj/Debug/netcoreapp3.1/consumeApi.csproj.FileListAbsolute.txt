@@ -1,0 +1,15 @@
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\bin\Debug\netcoreapp3.1\consumeApi.exe
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\obj\Debug\netcoreapp3.1\consumeApi.csprojAssemblyReference.cache
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\obj\Debug\netcoreapp3.1\consumeApi.AssemblyInfoInputs.cache
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\obj\Debug\netcoreapp3.1\consumeApi.AssemblyInfo.cs
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\bin\Debug\netcoreapp3.1\consumeApi.deps.json
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\bin\Debug\netcoreapp3.1\consumeApi.runtimeconfig.json
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\bin\Debug\netcoreapp3.1\consumeApi.runtimeconfig.dev.json
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\bin\Debug\netcoreapp3.1\consumeApi.dll
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\bin\Debug\netcoreapp3.1\consumeApi.pdb
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\obj\Debug\netcoreapp3.1\consumeApi.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\obj\Debug\netcoreapp3.1\consumeApi.csproj.CopyComplete
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\obj\Debug\netcoreapp3.1\consumeApi.dll
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\obj\Debug\netcoreapp3.1\consumeApi.pdb
+C:\Users\Steve\source\Demo\DemoApiJWT\consumeApi\obj\Debug\netcoreapp3.1\consumeApi.genruntimeconfig.cache
